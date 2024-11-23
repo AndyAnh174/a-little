@@ -134,7 +134,7 @@ const Main = () => {
                 width={140}
               />
               <span className="text-white font-bold px-4 z-[999]">
-                Khiim reaches 22!
+          Hồng Nhung reaches 19!
               </span>
             </div>
           </SectionWrapper>

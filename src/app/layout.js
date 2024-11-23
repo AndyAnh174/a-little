@@ -5,7 +5,7 @@ const font = Ubuntu({ subsets: ["latin"], weight: "400" });
 
 export const metadata = {
   title: "A little gift",
-  description: "Make with love for you | by toan10bits",
+  description: "Make with love for you | by AndyAnh",
 };
 
 export default function RootLayout({ children }) {
