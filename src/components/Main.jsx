@@ -73,7 +73,7 @@ const Main = () => {
                   <p className="italic  max-w-sm text-wrap text-lg">
                     Sending Nhung some very BIG hugs on her birthday.
                     <br />
-                    Wish you a day filled with love, joy and laughter.
+                    Wish you a day filled with best, joy and laughter.
                     <br />
                     Happy Birthday!!! 🎂🎉🎈
                     <br />
