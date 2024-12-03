@@ -5,7 +5,7 @@ const Letter = () => {
   const fx = (x) => {
     return (-1 / 2500) * x * x + (1 / 25) * x;
   };
-  let emojis = ["💻", "👨‍💻", "🎤", "🌼", "☕", "🎧", "📷"];
+  let emojis = ["🥰", "👧", "🌹", "🌼", "😊", "😊", "📷"];
 
   return (
     <div
@@ -13,7 +13,7 @@ const Letter = () => {
     >
       <Fragment>
         <span className="p-2 text-yellow-800 py-6 rounded-2xl z-[100] absolute text-2xl xl:text-9xl shadow-2xl font-extrabold bg-white ">
-          Be <span className="underline decoration-yellow-500">opti</span>mistic
+         Allway Be <span className="underline decoration-yellow-500">Ha</span>ppy !
         </span>
         {
           <div className="flex flex-wrap items-center  justify-center gap-4 ">

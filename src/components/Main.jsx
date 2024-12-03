@@ -71,7 +71,7 @@ const Main = () => {
                     A little birthday card!
                   </h2>
                   <p className="italic  max-w-sm text-wrap text-lg">
-                    Sending Nhung some very BIG hugs on her birthday.
+                    Sending Nhung some very BIG hugs on your birthday.
                     <br />
                     Wish you a day filled with best, joy and laughter.
                     <br />
@@ -134,7 +134,7 @@ const Main = () => {
                 width={140}
               />
               <span className="text-white font-bold px-4 z-[999]">
-          Hồng Nhung reaches 19!
+                Mừng bạn tuổi 19 thiệt vui !
               </span>
             </div>
           </SectionWrapper>
@@ -142,7 +142,7 @@ const Main = () => {
             background="bg-emerald-400"
             pos="three"
             custom={"overflow-hidden"}
-          >
+          > 
             <Letter />
           </SectionWrapper>
           <Footer />
